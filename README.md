@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Somanath-codes (Somanath Nayak)
-- 👀 I’m interested in Fullstack and DSA
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Frontend/Midlleware/Backend,etc
+- 👀 I’m interested in Fullstack and Large Language Modals (LLMs)
+- 🌱 I’m currently learning DSA in Java
+- 💞️ I’m looking to collaborate on Machine Learning Projects ,FullStack,etc
 - 📫 How to reach me : somanathnayak1304@gmail.com
 
 <!---
